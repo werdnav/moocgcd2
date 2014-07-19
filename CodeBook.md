@@ -1,6 +1,8 @@
 Code Book - MOOC Getting and Cleaning Data Project
+==================================================
 
 Data Location
+-------------
 
 The original data was obtained from the following URL:
 	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -9,6 +11,7 @@ a description of the data is available here:
 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Variable list and descriptions
+------------------------------
 
 Varible Name	| Description
 ----------------|--------------
@@ -21,6 +24,7 @@ dataNames	| Names of each data field as loaded from "features.txt".
 tidyData	| Aggregating the finalData set based on the subjectid and activitylabel (rows are averaged). 
 
 Analysis Process
+----------------
 
 The run_analysis.R script performs the following steps: 
 
