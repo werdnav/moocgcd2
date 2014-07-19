@@ -11,6 +11,7 @@ a description of the data is available here:
 Variable list and descriptions
 
 Varible Name	| Description
+----------------|--------------
 subjectid	| ID of each subject recorded in the data set. 
 activitylabel	| ID of the activity associated with each data entry. 
 trainData	| Training data set as loaded from "./data/train/X_train.txt".
