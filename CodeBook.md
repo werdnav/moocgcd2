@@ -10,14 +10,14 @@ a description of the data is available here:
 
 Variable list and descriptions
 
-Varible Name	Description
-subjectid	ID of each subject recorded in the data set. 
-activitylabel	ID of the activity associated with each data entry. 
-trainData	Training data set as loaded from "./data/train/X_train.txt".
-testData	Test data set as loaded from "./data/test/X_test.txt".
-finalData	The test and training data sets combined into a single data table. 
-dataNames	Names of each data field as loaded from "features.txt".
-tidyData	Aggregating the finalData set based on the subjectid and activitylabel (rows are averaged). 
+Varible Name	| Description
+subjectid	| ID of each subject recorded in the data set. 
+activitylabel	| ID of the activity associated with each data entry. 
+trainData	| Training data set as loaded from "./data/train/X_train.txt".
+testData	| Test data set as loaded from "./data/test/X_test.txt".
+finalData	| The test and training data sets combined into a single data table. 
+dataNames	| Names of each data field as loaded from "features.txt".
+tidyData	| Aggregating the finalData set based on the subjectid and activitylabel (rows are averaged). 
 
 Analysis Process
 
